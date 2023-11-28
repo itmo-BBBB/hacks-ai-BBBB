@@ -59,3 +59,10 @@ ___
 
 
 В папке `models` хранится модель векторизации текстов и модель регрессии, в папке `datasets` - предобработанные данные, остальные тетради описывают эксперименты/код для тестов и обучения/код для web-приложения. Наилучший выбитый **score** на аугментированных данных: `f1_micro = 0.88` для общих категорий рейтинга и для регрессии `MAE 0.026`, `RMSE 0.039`. Тем не менее модель возможно сильно переобучилась на аугментированных данных, из-за чего на финальном тесте хакатона провалилась
+
+**Contributors**: 
+- Кузнецов Андрей: [github](https://github.com/kdduha), [telegram](https://t.me/kdduha)
+- Горячев Александр: [github](https://github.com/JesusChristOurGod), [telegram](https://t.me/goryachev_alexander)
+- Сеничев Сергей: [github](https://github.com/ssenichev), [telegram](https://t.me/seniichev)
+- Привалов Кирилл: [github](https://github.com/hellkirl), [telegram](https://t.me/hellkirl)
+
